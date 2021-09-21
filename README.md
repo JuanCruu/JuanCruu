@@ -7,7 +7,7 @@
 </em></p>
 
 
-[![Linkedin: JuanCruzNavarro](https://img.shields.io/badge/-JuanCruzNavarro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: JuanCruzNavarro](https://img.shields.io/badge/-JuanCruzNavarro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in//)
 [![GitHub Thaiane](https://img.shields.io/github/followers/JuanCruu?label=follow&style=social)](https://github.com/JuanCruu)
 
 <img align='left' src="https://c.tenor.com/wJURHkOb3aUAAAAd/obonti.gif" width="207">
