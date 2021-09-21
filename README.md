@@ -24,6 +24,6 @@ const JUAN = {
 }
 ```
 
-//<h5><img  src="https://i.imgur.com/8nLFCVP.png" width="19"> <em><b>I spend a lot of my daily life alone, that's why I love spending time with other people :D</em></h5>
+
 
 ---
