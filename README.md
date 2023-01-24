@@ -16,9 +16,9 @@
   
 ```javascript
 const JUAN = {
-  age: 25,
-  code: [Javascript, GO Land, Typescript, HTML, CSS, PHP, Java, Mysql ,Docker],
-  Frameworks: [React, Angular, Vue, Ionic, Bootstrap, laravel],
+  age: 26,
+  code: [Javascript, GO Land, Typescript, HTML, CSS, PHP, Java, Mysql ,Docker, CounchDb],
+  Frameworks: [React, Tailwind, Angular, Vue, Ionic, Bootstrap, laravel , electron],
   things_I_like: ["videogames", "Manga", "Anime","Books","memes","learnssometimes"],
   i_need_to_improve:["Comunication","take it serious","be funny"]
 }
