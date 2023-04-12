@@ -16,13 +16,20 @@
 
   
 ```javascript
-const JUAN = {
+const Programer = {
+  name: "Juan Cruz",
   age: 26,
-  code: [Javascript, GO Land, Typescript, HTML, CSS, PHP, Java, Mysql ,Docker, CounchDb],
-  Frameworks: [React, Tailwind, Angular, Vue, Ionic, Bootstrap, Laravel , Electron],
-  things_I_like: ["videogames", "Manga", "Anime","Books","memes","learnssometimes"],
-  i_need_to_improve:["Comunication","take it serious","be funny"]
-}
+  code: ["Javascript", "HTML", "CSS", "Typescript", "Node.js", "Express.js"],
+  frameworks: ["React", "Tailwind", "Angular", "Vue", "Ionic", "Bootstrap", "Laravel", "Electron"],
+  tools: ["Docker", "postman", "trello", "jira", "visuals studio",],
+  dataBase: ["Mysql", "CounchDb"],
+  thingsIlike: ["videogames", "Manga", "Anime", "Books", "memes", "learnssometimes"],
+  i_need_to_improve: ["Communication", "take it serious", "be funny"],
+  english: {
+    true,
+    type: "technical English",
+  },
+};
 ```
 
 
