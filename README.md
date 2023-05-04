@@ -23,10 +23,8 @@ const Programer = {
   frameworks: ["React", "Tailwind", "Angular", "Vue", "Ionic", "Bootstrap", "Laravel", "Electron","Node.js", "Express.js","Axios],
   tools: ["Docker", "Postman", "Trello", "Jira", "Linear", "VS Code",],
   dataBase: ["Mysql", "CounchDb"],
-  thingsIlike: ["videogames", "Manga", "Anime", "Books", "Memes"],
-  english: {
-    true,
-    type: "technical English",
+  english: { "Type": "technical English",
+  thingsIlike: ["videogames", "Manga", "Anime", "Books", "Memes"]
   },
 };
 ```
