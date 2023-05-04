@@ -19,12 +19,11 @@
 const Programer = {
   name: "Juan Cruz",
   age: 26,
-  code: ["Javascript", "HTML", "CSS", "Typescript", "Node.js", "Express.js"],
-  frameworks: ["React", "Tailwind", "Angular", "Vue", "Ionic", "Bootstrap", "Laravel", "Electron"],
-  tools: ["Docker", "postman", "trello", "jira", "visuals studio",],
+  code: ["Javascript", "HTML", "CSS", "Typescript"],
+  frameworks: ["React", "Tailwind", "Angular", "Vue", "Ionic", "Bootstrap", "Laravel", "Electron","Node.js", "Express.js","Axios],
+  tools: ["Docker", "Postman", "Trello", "Jira", "Linear", "VS Code",],
   dataBase: ["Mysql", "CounchDb"],
-  thingsIlike: ["videogames", "Manga", "Anime", "Books", "memes", "learnssometimes"],
-  i_need_to_improve: ["Communication", "take it serious", "be funny"],
+  thingsIlike: ["videogames", "Manga", "Anime", "Books", "Memes"],
   english: {
     true,
     type: "technical English",
