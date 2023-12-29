@@ -20,9 +20,9 @@ const Programer = {
   name: "Juan Cruz",
   age: 26,
   code: ["Javascript", "HTML", "CSS", "Typescript"],
-  frameworks: ["React", "Tailwind", "Angular", "Vue", "Ionic", "Bootstrap", "Laravel", "Electron","Node.js", "Express.js","Axios],
+  frameworks: ["React","Next", "Tailwind", "Angular", "Vue", "Ionic", "Bootstrap", "Laravel", "Electron","Node.js", "Express.js","Axios"],
   tools: ["Docker", "Postman", "Trello", "Jira", "Linear", "VS Code",],
-  dataBase: ["Mysql", "CounchDb"],
+  dataBase: ["Mysql", "CounchDb","Firebase"],
   english: { "Type": "technical English",
   thingsIlike: ["videogames", "Manga", "Anime", "Books", "Memes"]
   },
