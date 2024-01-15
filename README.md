@@ -13,7 +13,6 @@ let cringyGuy = {
   newHobby:["music"],
   thingsIlike: ["videogames", "Manga", "Anime", "Books"],
   talents:[]
-  },
 };
 ```
 
