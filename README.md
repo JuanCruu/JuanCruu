@@ -1,6 +1,12 @@
 
-   <h3>< Web developer />  </h3>
-     <img align='left' src="https://i.imgflip.com/1qi98d.jpg" width="250">
+   <<span> webDeveloper<span/>
+           src="arg" 
+           developer={cringyGuy} />  
+
+<div  align='center'>
+     <img align='left' src="https://i.imgflip.com/1qi98d.jpg" width="300" height="210">
+   
+</div>
 
 
   
