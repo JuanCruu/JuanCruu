@@ -1,8 +1,4 @@
 
-   <<span> webDeveloper<span/>
-           src="arg" 
-           developer={cringyGuy} />  
-
 <div  align='center'>
      <img align='left' src="https://i.imgflip.com/1qi98d.jpg" width="300" height="200">
    
@@ -15,7 +11,7 @@ let developer = {
   name: "Juan Cruz",
   age: 28,
   country:"Argentina"
-  inglish:tru,
+  inglish:"tru",
   lifestyle:"not recommended",
   newHobby:["Music","Arduino"],
   thingsIlike: ["Videogames","Books"],
