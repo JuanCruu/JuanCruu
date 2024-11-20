@@ -11,13 +11,14 @@
 
   
 ```javascript
-let cringyGuy = {
+let developer = {
   name: "Juan Cruz",
-  age: 27,
+  age: 28,
+  country:"Argentina"
   inglish:tru,
   lifestyle:"not recommended",
-  newHobby:["music"],
-  thingsIlike: ["videogames", "Manga", "Anime", "Books"],
+  newHobby:["Music","Arduino"],
+  thingsIlike: ["Videogames","Books"],
   talents:[]
 };
 ```
