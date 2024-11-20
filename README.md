@@ -1,5 +1,7 @@
-
-<div  align='center'>
+<p>☝️🤓<em> Técnico Universitario en Desarrollo de Aplicaciones Informáticas en <a href="http://www.unb.br"><a href="https://web.exa.unicen.edu.ar/es">Facultad de Ciencias Exactas</a>
+</em></p>
+     
+<div  align='center' style={marginTop:"30px"}>
      <img align='left' src="https://i.imgflip.com/1qi98d.jpg" width="300" height="200">
    
 </div>
@@ -41,8 +43,7 @@ let developer = {
   
 
 
-<p>☝️🤓<em> Técnico Universitario en Desarrollo de Aplicaciones Informáticas en <a href="http://www.unb.br"><a href="https://web.exa.unicen.edu.ar/es">Facultad de Ciencias Exactas</a>
-</em></p>
+
 
 
 
