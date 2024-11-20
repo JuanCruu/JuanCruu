@@ -1,8 +1,8 @@
 
 <div align="center" style="background-color: #1f2a44; padding: 30px; border-radius: 10px; color: white; display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-  <img src="[[https://fbi.cults3d.com/uploaders/32338244/illustration-file/f23d00d1-2861-40af-8e83-1e8f5eda7403/WhatsApp-Image-2024-08-27-at-6.36.25-PM.jpeg](https://i.pinimg.com/originals/3b/a7/9c/3ba79c66a9329f698800ed23a48e9564.jpg)](https://i.pinimg.com/originals/3b/a7/9c/3ba79c66a9329f698800ed23a48e9564.jpg)" alt="Gatito Hechicero" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
+  <img src="https://www.meme-arsenal.com/memes/0ec50f0e8743f80fbd658365dd84b393.jpg" alt="Gatito Hechicero" w style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h1 style="display:inline; margin-top: 20px; font-family: 'Arial', sans-serif; font-style: italic;">
-    🦉 Hail, O Stranger of the Night! <br> What brings thee to this enchanted place?
+    Stranger! welcome to my profile <br> please follow me 
   </h1>
 </div>
 
