@@ -15,8 +15,7 @@ let developer = {
   country:"Argentina"
   inglish:"tru",
   lifestyle:"not recommended",
-  newHobby:["Music","Arduino"],
-  thingsIlike: ["Videogames","Books"],
+  hobbys: ["Videogames","Books","Gym","make music","Arduino","learnThingsThatWillNeverHelpMeInMyDailyLife"],
   talents:[]
 };
 ```
