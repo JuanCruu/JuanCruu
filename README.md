@@ -1,5 +1,4 @@
-<p>☝️🤓<em> Técnico Universitario en Desarrollo de Aplicaciones Informáticas en <a href="http://www.unb.br"><a href="https://web.exa.unicen.edu.ar/es">Facultad de Ciencias Exactas</a>
-</em></p>
+
      
 <div  align='center' style={marginTop:"30px"}>
      <img align='left' src="https://i.imgflip.com/1qi98d.jpg" width="300" height="200">
@@ -12,13 +11,15 @@
 let developer = {
   name: "Juan Cruz",
   age: 28,
-  country:"Argentina"
+  country:"Argentina",
   inglish:"tru",
   lifestyle:"not recommended",
   hobbys: ["Videogames","Books","Gym","make music","Arduino","learnThingsThatWillNeverHelpMeInMyDailyLife"],
   talents:[]
 };
 ```
+<p>☝️🤓<em> Técnico Universitario en Desarrollo de Aplicaciones Informáticas en <a href="http://www.unb.br"><a href="https://web.exa.unicen.edu.ar/es">Facultad de Ciencias Exactas</a>
+</em></p>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
