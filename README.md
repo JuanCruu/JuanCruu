@@ -1,6 +1,6 @@
 
 
-### 👨‍💻 Me
+
 ```javascript
 const developer = {
   name: "Juan Cruz",
