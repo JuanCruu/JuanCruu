@@ -17,7 +17,6 @@ const developer = {
   name: "Juan Cruz",
   age: 28,
   location: "Argentina",
-  english: "work in progress 🚀",
   lifestyle: "slightly chaotic",
   hobbies: [
     "🎮 Videogames",
