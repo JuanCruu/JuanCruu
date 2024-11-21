@@ -1,6 +1,6 @@
 
 
-🎓 **Técnico Universitario en Desarrollo de Aplicaciones Informáticas**  
+​☝️🤓​ **Técnico Universitario en Desarrollo de Aplicaciones Informáticas** 🎓
 🌟 Passionate about **web development**, **learning new technologies**, and turning ideas into reality.  
 ```javascript
 const developer = {
