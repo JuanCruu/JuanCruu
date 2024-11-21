@@ -54,8 +54,10 @@ const developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-### 🤝 Connect With Me  
+### 🤝 Connect With Me 
+
 Feel free to reach out if you want to collaborate, chat about technology, or just exchange some memes.  
 📧 **Email**: [juancruznavarro592@gmail.com](juancruznavarro592@gmail.com)  
 💼 **LinkedIn**: [Juan Cruz Navarro](https://www.linkedin.com/in/juan-cruz-navarro-63a300228/)  
+
 ---
