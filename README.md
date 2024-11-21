@@ -1,17 +1,6 @@
 
-<div align="center" style="background-color: #1f2a44; padding: 30px; border-radius: 10px; color: white; display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-  <img src="https://www.meme-arsenal.com/memes/0ec50f0e8743f80fbd658365dd84b393.jpg" alt="Gatito Hechicero" w style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
-  <h1 style="display:inline; font-family: 'Arial', sans-serif; font-style: italic;">
-    ​​Stranger! welcome to my profile 👵 <br> please follow me👩‍🦯
-  </h1>
-</div>
 
-
-
-
----
-
-### 👨‍💻 My Stats  
+### 👨‍💻 Me
 ```javascript
 const developer = {
   name: "Juan Cruz",
