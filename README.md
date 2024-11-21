@@ -8,14 +8,7 @@ const developer = {
   age: 28,
   location: "Argentina",
   lifestyle: "slightly chaotic",
-  hobbies: [
-    "🎮 Videogames",
-    "📚 Books",
-    "💪 Gym",
-    "🎵 Making music",
-    "🤖 Arduino",
-    "🧠 Learning random things"
-  ],
+  hobbies: [ "🎮 Videogames","📚 Books","💪 Gym", "🎵 Making music", "🤖 Arduino", "🧠 Learning random things"],
   talents: [],
 };
 ```
@@ -61,18 +54,8 @@ const developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-
-### 🌟 Fun Facts  
-- I love tinkering with **Arduino** projects and learning seemingly "useless" things that always turn out to be useful later.  
-- Constantly trying to balance **gym** and a love for **videogames**.  
-- My "work-in-progress" English is powered by determination and Google Translate.  
-
----
-
 ### 🤝 Connect With Me  
 Feel free to reach out if you want to collaborate, chat about technology, or just exchange some memes.  
 📧 **Email**: [juancruznavarro592@gmail.com](juancruznavarro592@gmail.com)  
 💼 **LinkedIn**: [Juan Cruz Navarro](https://www.linkedin.com/in/juan-cruz-navarro-63a300228/)  
-
 ---
